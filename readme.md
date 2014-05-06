@@ -6,6 +6,10 @@ Steal the enemy process' memory before he takes yours. If you have no space left
 You also need to be careful. Do not overflow or underflow the stack.
 Good Luck.
 
+Installation
+    Segfault requires PyGame, which can be found at http://www.pygame.org/download.shtml
+    To run Segfault, run control.py with Python 2.7 
+
 How to Play:
 
 * Cycles
